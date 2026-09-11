@@ -19,8 +19,7 @@ __next__
 Условие:
 iter(countdown) is countdown
 должно быть True.
-И в комментарии ответь:
-Почему Countdown является iterator, а не просто iterable?"""
+"""
 class Countdown:
     def __init__(self, start):
         self.counter = start
