@@ -55,4 +55,10 @@ print("ITERATION:")
 for song in pl:
     print(song)
 
-    
+"""len: 3
+#1
+#2
+ITERATION:
+#1
+#2
+#3"""
